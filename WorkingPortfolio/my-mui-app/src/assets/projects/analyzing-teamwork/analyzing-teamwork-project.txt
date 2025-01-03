@@ -1,0 +1,7 @@
+Title: UX Research
+
+Description: I spent 10 weeks analyzing cooperative video game play to refine a codebook of teamwork behavior. 
+
+Project purpose: Expand on the list of teamwork behaviors and develop a plan for a testbed game for analyzing intrapersonal behavior.
+
+Conclusion: After analyzing 60 hours of gameplay, we cold conclude several distinct relationships between certain behaviors exhibited between team players and the game’s environmental context.
